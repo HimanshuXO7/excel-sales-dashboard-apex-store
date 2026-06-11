@@ -13,6 +13,10 @@ This project analyzes Apex Store sales data using Microsoft Excel. The dashboard
 - Data Cleaning
 - Dashboard Design
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Key Insights
 
 - Monthly sales and order trends
